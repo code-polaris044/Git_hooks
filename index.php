@@ -9,7 +9,7 @@
 
 <body>
     <p>てすと</p>
-    <h1>テスト</h1>
+    <h1 class="to-yellow-50">テスト</h1>
 
     <? echo "test" ?>
 
