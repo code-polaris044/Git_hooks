@@ -1,19 +1,19 @@
 {
-  "name": "Git_hooks",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "husky": "^8.0.3",
-    "lint-staged": "^15.1.0"
-  },
+    "name": "git_hooks",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "husky": "^8.0.3",
+        "lint-staged": "^15.1.0"
+    },
     "lint-staged": {
-    "*.{js,jsx,ts,tsx}": [
-      "eslint --fix",
-      "prettier --write"
-    ],
-    "*.{css,less,sass,scss}": [
-      "stylelint --fix"
-    ]
-  }
+        "*.{js,jsx,ts,tsx}": [
+            "eslint --fix",
+            "prettier --write"
+        ],
+        "*.{css,less,sass,scss}": [
+            "stylelint --fix"
+        ]
+    }
 }
