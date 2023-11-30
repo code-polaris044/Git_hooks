@@ -1,0 +1,14 @@
+{
+    "phpVersion": "8.0",
+    "singleQuote": true,
+    "tabWidth": 4,
+    "printWidth": 120,
+    "useTabs": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "semi": true,
+    "arrowParens": "always",
+    "htmlWhitespaceSensitivity": "ignore",
+    "proseWrap": "preserve",
+    "jsxBracketSameLine": false
+}

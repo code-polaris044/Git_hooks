@@ -1,0 +1,9 @@
+.test {
+    background: red;
+
+    &_input {
+        background: $cl;
+    }
+}
+
+$cl: red;
